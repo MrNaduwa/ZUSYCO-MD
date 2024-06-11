@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94741830352",
+  OWNER_NUMBER: "94703365788",
   SUDO_NUMBERS : "94715346004,94760007746",
-  OWNER_NAME: "Chirath",
+  OWNER_NAME: "චුටී ׀ යා ×͜×",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
